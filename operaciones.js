@@ -3,6 +3,7 @@ let numero=20;
 console.log(++numero); // ++ para sumar un valor.
 // operaciones binarias
 console.log(1+2);
+console.log(1+2+3); // 2 operaciones binarias.
 console.log(1+2.2);
 console.log(1-2);
 console.log(1*2);
